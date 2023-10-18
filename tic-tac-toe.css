@@ -59,4 +59,5 @@ footer{
     color:pink;
     text-transform: uppercase;
     font-family:'Times New Roman', Times, serif;
+    padding:auto;
 }
